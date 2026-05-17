@@ -1,10 +1,10 @@
-Inteligente PureVPN Aplicación | soporte PPTP + soporte L2TP es el mejor PureVPN aplicación con soporte PPTP y soporte L2TP. Seguro y optimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/purevpn-sa94/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
