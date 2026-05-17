@@ -1,10 +1,10 @@
-Smart PureVPN App | PPTP support + L2TP support is the best PureVPN app with PPTP support and L2TP support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://foundtailorthink.github.io/purevpn-sa94/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
