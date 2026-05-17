@@ -1,10 +1,10 @@
-ذكي PureVPN تطبيق | دعم PPTP + دعم L2TP هو أفضل PureVPN تطبيق مع دعم PPTP و دعم L2TP. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/purevpn-sa94/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
